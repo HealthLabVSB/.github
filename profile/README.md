@@ -18,7 +18,7 @@ We develop methods and tools for non-contact and wearable monitoring of human ph
 
 ## Latest publications with code & data
 
-- **A dataset of paired auscultatory and oscillometric blood pressure measurements from routine clinical practice** – Kauzlaričová et al., *Scientific Data* (2026) · [Paper](https://doi.org/10.1038/s41597-026-07843-7) · [Code](https://github.com/HealthLabVSB/osc-aus-bp-validation)
+- **A dataset of paired auscultatory and oscillometric blood pressure measurements from routine clinical practice** – Kauzlaricova et al., *Scientific Data* (2026) · [Paper](https://doi.org/10.1038/s41597-026-07843-7) · [Code](https://github.com/HealthLabVSB/osc-aus-bp-validation)
 - **Physiological Signal Dataset on Meditation-Induced Relaxation: GSR, HR, and HRV** – Kauzlaricova et al., Zenodo (2026) · [Dataset](https://doi.org/10.5281/zenodo.21490601) · [Code & data](https://github.com/HealthLabVSB/physiological-signal-dataset-on-meditation-induced-relaxation)
 - **Synchronized multimodal dataset for central–autonomic coupling in meditation and rest** – Hrncirova et al., Zenodo (2025) · [Dataset](https://doi.org/10.5281/zenodo.17735691) · [Code](https://github.com/HealthLabVSB/Synchronized-multimodal-dataset-for-central-autonomic-coupling-in-meditation-and-rest)
 - **Modeling and Recognition of Retinal Blood Vessels Tortuosity in ROP Plus Disease** – Varysova et al., *Int. J. Intelligent Systems* (2025) · [Paper](https://doi.org/10.1155/int/6688133) · [Code & data](https://github.com/HealthLabVSB/segmentation-classification-algorithm)
@@ -28,7 +28,7 @@ We develop methods and tools for non-contact and wearable monitoring of human ph
 
 ## Tools
 
-- **[DARTscope](https://github.com/HealthLabVSB/DARTscope)** – GUI and CLI tools for inspecting, processing and visualising TI mmWave radar data from the DCA1000 EVM (Barvík & Hrubý, 2025, MIT).
+- **[DARTscope](https://github.com/HealthLabVSB/DARTscope)** – GUI and CLI tools for inspecting, processing and visualising TI mmWave radar data from the DCA1000 EVM (Barvik & Hruby, 2025).
 
 ## How to cite
 
