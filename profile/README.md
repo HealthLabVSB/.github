@@ -28,7 +28,7 @@ We develop methods and tools for non-contact and wearable monitoring of human ph
 
 ## Tools
 
-- **[DARTscope](https://github.com/HealthLabVSB/DARTscope)** – GUI and CLI tools for inspecting, processing and visualising TI mmWave radar data from the DCA1000 EVM (Barvik & Hruby, 2025).
+- **[DARTscope](https://github.com/HealthLabVSB/DARTscope)** – GUI and CLI tools for inspecting, processing and visualising TI mmWave radar data from the DCA1000 EVM (Barvik & Hruby, v2.0, 2026).
 
 ## How to cite
 
